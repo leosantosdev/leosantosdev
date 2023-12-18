@@ -21,15 +21,14 @@ src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png" al
 <br>
 <p> 
  <a href="https://www.linkedin.com/in/leonardo-dos-santos-87a603298"/>
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />     
- </a><br>
-  <a href="https://app.netlify.com/teams/dossantosleonardo-dev/overview" /> 
-    <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /> 
-  </a><br>
-  <a href="mailto:dossantosleonardo.dev@gmail.com?subject=Questions" /> 
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail-logo" /> 
+  <img src="https://cdn.freebiesupply.com/logos/large/2x/linkedin-icon-logo-png-transparent.png" alt="linkedin-logo" width="27px"/>     
+ </a>   <a href="https://app.netlify.com/teams/dossantosleonardo-dev/overview"/> 
+    <img src="https://cdn.freebiesupply.com/logos/large/2x/netlify-logo-png-transparent.png" alt=netlify-logo" width="27px"/> 
+  </a>  <a href="mailto:dossantosleonardo.dev@gmail.com?subject=Questions"/> 
+    <img src="https://logolook.net/wp-content/uploads/2021/06/Gmail-Logo.png" alt="gmail-logo" width="40px" text-align="right"/> 
     <a/>
-  </p>
+ 
+   </p>
 
 <br>
 
