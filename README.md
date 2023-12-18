@@ -16,7 +16,6 @@ As principais ferramentas/tecnologias usadas por mim, são: <br><br>
 src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png" alt="css-logo" width="27px" /> <img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" alt="js-logo" width="27px" /> <img src="https://www.ictdemy.com/images/5728/nodejs_logo.png" alt="node-logo" width="27px" />
 
 <br>
-<br>
 
 <h3>Conecte-se comigo:</h3>
 <br>
