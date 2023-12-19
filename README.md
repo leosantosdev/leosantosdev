@@ -15,7 +15,6 @@ As principais ferramentas/tecnologias usadas por mim, são: <br><br>
 <img src="https://i.pinimg.com/originals/00/f4/05/00f40564d281eee8dbb931024b8e6975.png" alt="vscode-logo" width="27px" /> <img src="https://www.delphitools.info/wp-content/uploads/2012/02/HTML5_Badge_512-300x300.png" alt="html-logo" width="27px" /> <img 
 src="https://cdn1.iconfinder.com/data/icons/logotypes/32/badge-css-3-512.png" alt="css-logo" width="27px" /> <img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" alt="js-logo" width="27px" /> <img src="https://www.ictdemy.com/images/5728/nodejs_logo.png" alt="node-logo" width="27px" />
 
-<br>
 
 <h3>Conecte-se comigo:</h3>
 <br>
